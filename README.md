@@ -46,7 +46,7 @@ Linguagem: Javascript com React
 
 ### Backend
 
-Linguagem: NodeJs
+Linguagem: NodeJs </br>
 Banco de dados: MySql com uso do Sequelize
 
 ## Linter
