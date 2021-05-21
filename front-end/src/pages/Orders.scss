@@ -1,0 +1,32 @@
+.content-panel {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  
+  .order-card-container {
+    width: 300px;
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    margin: 10px;
+    align-items: center;
+    border-bottom: inset rgb(237,115,50);
+    border-right: inset rgb(237,115,50);
+    background-color: rgba(237,115,50,0.05);
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .card-id-date {
+    font-size: 20px;
+    color: white;
+    line-height: 35px;
+    padding-left: 10px;
+  }
+}
+
+
